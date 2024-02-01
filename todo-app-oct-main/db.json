@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "name": "abhi",
+      "email": "abhish@gamil.com",
+      "password": "admin",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "name": "vikrant",
+      "email": "vikrant@gmail.com",
+      "password": "vikrant",
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "name": "abhi",
+      "email": "abhi@gmail.com",
+      "password": "abhi",
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "name": "anu",
+      "email": "anubhav@gmail.com",
+      "password": "anu",
+      "id": 13
+    },
+    {
+      "name": "avi",
+      "email": "avi@gmail.com",
+      "password": "avi",
+      "id": 14
+    }
+  ],
+  "tasks": [
+    {
+      "title": "bill payment",
+      "userId": 12,
+      "description": "pay bill",
+      "duedate": "2023-11-30T13:35",
+      "id": 3
+    },
+    {
+      "title": "meet",
+      "userId": 13,
+      "modifiedOn": "Thu Nov 16 2023 10:12:51 GMT+0530 (India Standard Time)",
+      "description": "meeting",
+      "duedate": "2023-12-05T10:16",
+      "id": 4
+    },
+    {
+      "id": 9
+    },
+    {
+      "title": "Pg for boys",
+      "description": "with food ",
+      "duedate": "2023-11-02T21:59",
+      "userId": 14,
+      "modifiedOn": "Mon Nov 20 2023 16:57:41 GMT+0530 (India Standard Time)",
+      "id": 10
+    },
+    {
+      "title": "Gym",
+      "description": "gym opening ",
+      "duedate": "2023-11-06T15:11",
+      "userId": 14,
+      "modifiedOn": "Mon Nov 27 2023 13:09:05 GMT+0530 (India Standard Time)",
+      "id": 11
+    },
+    {
+      "title": "Hair sallon",
+      "description": "unisex sallon",
+      "duedate": "2023-11-12T18:12",
+      "userId": 14,
+      "modifiedOn": "Mon Nov 27 2023 13:09:51 GMT+0530 (India Standard Time)",
+      "id": 12
+    },
+    {
+      "title": "Pg ",
+      "description": "Pg for boys and girls",
+      "duedate": "2023-11-06T17:12",
+      "userId": 14,
+      "modifiedOn": "Mon Nov 27 2023 13:10:36 GMT+0530 (India Standard Time)",
+      "id": 13
+    }
+  ]
+}
